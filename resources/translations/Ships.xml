@@ -939,6 +939,18 @@
     <JP-Name>Roma</JP-Name>
     <TR-Name>Roma</TR-Name>
   </Ship>
+  <Ship>
+    <JP-Name>瑞穂</JP-Name>
+    <TR-Name>Mizuho</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>速吸</JP-Name>
+    <TR-Name>Hayasui</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>Libeccio</JP-Name>
+    <TR-Name>Libeccio</TR-Name>
+  </Ship>
   <Ship mode="suffix">
 	<JP-Name>改</JP-Name>
     <TR-Name> Kai</TR-Name>
